@@ -8,6 +8,7 @@
 #define IP "51.77.245.88"
 #define PORT 1338
 
+
 int main()
 {
     int sockfd = socket(AF_INET, SOCK_STREAM, 0);
